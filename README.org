@@ -1,0 +1,24 @@
+* OS
+ - [[http://www.archlinux.org/][Arch Linux]] + gnome-shell
+* CLI Tools
+** Terminal Setup
+*** Terminal Choice
+ - Gnome Terminal
+*** Terminal Colors
+ - [[https://github.com/chriskempson/base16-gnome-terminal][base16]]
+*** Shell
+ - [[http://fishshell.com/][fish]] + [[http://fisherman.sh][fisherman]]
+ - fisherman plugins:
+   - [[https://github.com/jethrokuan/jetty][jetty]] (theme)
+   - [[https://github.com/fisherman/z][z]]
+   - [[https://github.com/fisherman/fzf][fzf]] (requires installation of [[https://github.com/junegunn/fzf][fzf]] binary)
+   - [[https://github.com/jethrokuan/tree][tree]] (requires installation of [[http://mama.indstate.edu/users/ice/tree/][tree]] binary)
+*** CLI Tools
+ - [[https://github.com/zquestz/s][s]] (query the web)
+ - [[https://github.com/ggreer/the_silver_searcher][ag]] (file searcher)
+* Editor
+ - Emacs + [[https://github.com/jethrokuan/.emacs.d][my .emacs.d]]
+* Web Tools
+ - [[https://github.com/sass/sassc][sassc]] (sass compiler)
+ - [[https://github.com/cortesi/devd][devd]] (web server)
+ - [[https://github.com/cortesi/modd][modd]] (file watcher + task runner)
