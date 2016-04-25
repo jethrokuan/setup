@@ -18,6 +18,7 @@
    - [[https://github.com/jethrokuan/tree][tree]] (requires installation of [[http://mama.indstate.edu/users/ice/tree/][tree]] binary)
    - [[https://github.com/jethrokuan/gitalias][gitalias]] (common aliases for git)
    - [[https://github.com/jethrokuan/fish-yourls][fish-yourls]] (url shortener)
+   - [[https://github.com/fisherman/gitignore][gitignore]] (gitignore template generator)
 *** CLI Tools
  - [[https://github.com/zquestz/s][s]] (query the web)
  - [[https://github.com/ggreer/the_silver_searcher][ag]] (file searcher)
